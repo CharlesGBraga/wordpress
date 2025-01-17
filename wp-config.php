@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', getenv('DB_NAME'));       // Nome do banco de dados (variável de ambiente)
+define('DB_NAME', 'wordpress_db');       // Nome do banco de dados (variável de ambiente)
 
 /** Database username */
-define('DB_USER', getenv('DB_USER'));       // Nome de usuário do banco de dados (variável de ambiente)
+define('DB_USER', 'wp_user');       // Nome de usuário do banco de dados (variável de ambiente)
 
 /** Database password */
-define('DB_PASSWORD', getenv('DB_PASSWORD')); // Senha do banco de dados (variável de ambiente)
+define('DB_PASSWORD', '123456'); // Senha do banco de dados (variável de ambiente)
 
 /** Database hostname */
-define('DB_HOST', getenv('DB_HOST'));       // Host do banco de dados (variável de ambiente)
+define('DB_HOST', 'wordpress_db.render.com');       // Host do banco de dados (variável de ambiente)
 
 // ** Chaves de segurança e saltos ** //
 define('AUTH_KEY',         'v#jl8ctenY?JbFUwgeW^uDy9%N}z+z#k_J8Lpt);8sri/_uOAmFzW&dxtByC8Fd@');

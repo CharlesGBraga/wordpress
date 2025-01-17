@@ -29,7 +29,7 @@ define('DB_USER', 'wp_user');       // Nome de usuário do banco de dados (vari�
 define('DB_PASSWORD', '123456'); // Senha do banco de dados (variável de ambiente)
 
 /** Database hostname */
-define('DB_HOST', 'localhost');       // Host do banco de dados (variável de ambiente)
+define('DB_HOST', 'wordpress_db.render.com');       // Host do banco de dados (variável de ambiente)
 
 // ** Chaves de segurança e saltos ** //
 define('AUTH_KEY',         'v#jl8ctenY?JbFUwgeW^uDy9%N}z+z#k_J8Lpt);8sri/_uOAmFzW&dxtByC8Fd@');
@@ -42,7 +42,7 @@ define('LOGGED_IN_SALT',   'qJg)%Gp8XqJk^9n^1kF^joH)piu5%rD~u2gzgo*hxq&fXHbh+}TZ
 define('NONCE_SALT',       'iUjXfD~]JYZlmuGx%}+u63A@TXCTv74:mwD?)kF3S1!)Sh8_=+gOxA6qG)lAe~9');
 
 // Definições do WordPress (geralmente não precisam ser alteradas)
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 
 /**
  * WordPress database table prefix.

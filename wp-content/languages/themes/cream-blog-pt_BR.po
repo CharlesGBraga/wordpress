@@ -1,0 +1,1175 @@
+# Translation of Themes - Cream Blog in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Cream Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-30 18:08:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Cream Blog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Cream Blog is 100% responsive, cross browser compatible, clean & trendy WordPress theme designed beautifully and developed with respect to WordPress standards. Cream blog fulfills the needs of those who want to build blog to publish online contents, write blog posts on travel, food, technology, fashion etc. Cream blog supports Woocommerce in case one is in need of setting up their own online store. Cream blog comes with tons of handy options that you can be trigged from WordPress live customizer. Build your blog with no hassale & let us know when you really need a hand by simply creating a support ticket from https://themebeez.com/support/."
+msgstr "Cream Blog é 100% responsivo, compatível com navegador cruzado, tema simples & trendy WordPress com design lindamente e desenvolvido em relação aos padrões do WordPress. O blog Cream atende às necessidades de quem quer construir blog para publicar conteúdos online, escrever posts em blogs sobre viagens, alimentos, tecnologia, moda etc. O blog cream apoia a Woocommerce no caso de se precisar montar sua própria loja online. O blog cream vem com toneladas de opções úteis que você pode ativar e personalizar ao vivo do WordPress. Construa seu blog sem venda e nos avise quando você realmente precisa de uma mão simplesmente criando um bilhete de suporte a partir de https://themebeez.com/support/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Cream Blog"
+msgstr "Blog do Creme"
+
+#: inc/custom-hooks.php:81
+msgid "Skip to content"
+msgstr "Ir para o conteúdo"
+
+#: inc/customizer/class-cream-blog-customize.php:1001
+#: inc/customizer/class-cream-blog-customize.php:1070
+msgid "Display Featured Image"
+msgstr "Exibir a imagem destacada"
+
+#: inc/customizer/class-cream-blog-customize.php:271
+msgid "For site optimization and fast page load, enable image lazy load."
+msgstr "Para otimização do site e carregamento rápido da página, ative o carregamento lento da imagem."
+
+#: inc/customizer/class-cream-blog-customize.php:270
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer/class-cream-blog-customize.php:224
+msgid "Page Single"
+msgstr "Página única"
+
+#: inc/customizer/class-cream-blog-customize.php:215
+msgid "Post Single"
+msgstr "Post individual"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado está inativo no momento: %1$s."
+msgstr[1] "O seguinte plugins recomendado está inativo no momento: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin obrigatório está inativo no momento: %1$s."
+msgstr[1] "O seguinte plugins obrigatório está inativo no momento: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Existe atualização disponível para o seguinte plugin: %1$s."
+msgstr[1] "Existem atualizações disponíveis para o seguinte plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "O seguinte plugin precisa ser atualizado para sua versão mais recentes para garantir a máxima compatibilidade com este tema: %1$s."
+msgstr[1] "Os seguintes plugins precisa ser atualizado para sua versão mais recentes para garantir a máxima compatibilidade com este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda o seguinte plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer o seguinte plugin: %1$s."
+
+#: inc/customizer/class-cream-blog-customize.php:140
+msgid "Upgrade to Pro"
+msgstr "Atualizar para Pro"
+
+#: inc/customizer/class-cream-blog-customize.php:139
+msgid "Cream Blog Pro"
+msgstr "Cream Blog Pro"
+
+#: template-parts/layout/layout-list-two-columns.php:39
+msgid "Continue Reading"
+msgstr "Continuar lendo"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:28
+#: template-parts/single/content-single.php:30
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:17
+msgid "Nothing was found at this location. Try adjusting your keyword & search again."
+msgstr "Nada foi encontrado neste local. Tente ajustar sua palavra-chave e pesquisar novamente."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#. translators: %s: search query.
+#: search.php:53
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce/woocommerce-template-functions.php:218
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d itens"
+
+#: inc/woocommerce/woocommerce-template-functions.php:214
+msgid "View your shopping cart"
+msgstr "Ver seu carrinho de compras"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:329
+msgid "Display Featured Products"
+msgstr "Exibir produtos em destaque"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:316
+msgid "Display Top Rated Products"
+msgstr "Exibir produtos de classificação superior"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:304
+msgid "Display Best Selling Products"
+msgstr "Exibir produtos mais vendidos"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:291
+msgid "Display On Sale Products"
+msgstr "Exibir produtos á venda"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:262
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:261
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:252
+msgid "Order"
+msgstr "Ordenar"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:247
+msgid "List product category slugs seperated by comma."
+msgstr "Listar slugs de categoria de produto separados por vírgula."
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:239
+msgid "Product Categories"
+msgstr "Categorias de produto"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:234
+msgid "List product SKUs seperated by comma."
+msgstr "Listar SKUs de produtos separados por vírgula."
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:225
+msgid "SKUS"
+msgstr "SKUS"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:203
+msgid "Rating"
+msgstr "Avaliação"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:202
+msgid "Random"
+msgstr "Aleatório"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:201
+msgid "Popularity"
+msgstr "Popularidade"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:200
+msgid "Menu Order"
+msgstr "Ordem do menu"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:199
+msgid "ID"
+msgstr "ID"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:198
+msgid "Date"
+msgstr "Data"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:188
+msgid "Orderby"
+msgstr "Ordenar por"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:183
+msgid "Set no of columns to be displayed"
+msgstr "Defina o número de colunas a serem exibidas"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:175
+msgid "No of Columns"
+msgstr "Numero de colunas"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:170
+msgid "Set no of products to be displayed"
+msgstr "Definir número de produtos a serem exibidos"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:161
+msgid "No of Products"
+msgstr "Número de produtos"
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:33
+msgid "Displays Woocommerce Products."
+msgstr "Exibir produtos do woocommerce."
+
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:30
+msgid "CB: Woocommerce Products"
+msgstr "CB: Produtos woocommerce"
+
+#: inc/widget/class-cream-blog-widget-init.php:170
+msgid "Woocommerce Sidebar"
+msgstr "Barra lateral WooCommerce"
+
+#: inc/widget/class-cream-blog-widget-init.php:151
+msgid "Off Canvas Sidebar"
+msgstr "Barra lateral Off Canvas"
+
+#: inc/widget/class-cream-blog-widget-init.php:141
+msgid "This widget area will be displayed below the blog post list section and above the footer."
+msgstr "Esta área de widget será exibida abaixo da seção de lista de post do blog e acima do rodapé."
+
+#: inc/widget/class-cream-blog-widget-init.php:139
+msgid "Home Widget Area Bottom"
+msgstr "Área de widget inferior da página inicial"
+
+#: inc/widget/class-cream-blog-widget-init.php:129
+msgid "This widget area will be displayed below the banner and above the blog post list section."
+msgstr "Esta área de widget será exibida abaixo do banner e acima da seção de lista de post do blog."
+
+#: inc/widget/class-cream-blog-widget-init.php:127
+msgid "Home Widget Area Top"
+msgstr "Área de widget superior da página inicial"
+
+#: inc/widget/class-cream-blog-widget-init.php:115
+msgid "Header Advertisement"
+msgstr "Anúncio do cabeçalho"
+
+#: inc/widget/class-cream-blog-widget-init.php:93
+#: inc/widget/class-cream-blog-widget-init.php:105
+#: inc/widget/class-cream-blog-widget-init.php:117
+#: inc/widget/class-cream-blog-widget-init.php:153
+#: inc/widget/class-cream-blog-widget-init.php:172
+msgid "Add widgets here."
+msgstr "Adicionar widgets aqui."
+
+#: inc/widget/class-cream-blog-widget-init.php:91
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/widget/class-cream-blog-social-widget.php:182
+msgid "Pinterest Link:"
+msgstr "URL do Pinterest:"
+
+#: inc/widget/class-cream-blog-social-widget.php:175
+msgid "Youtube Link:"
+msgstr "Link do Youtube:"
+
+#: inc/widget/class-cream-blog-social-widget.php:168
+msgid "linkedin Link:"
+msgstr "URL do Linkedin:"
+
+#: inc/widget/class-cream-blog-social-widget.php:161
+msgid "Instagram Link:"
+msgstr "URL do Instagram:"
+
+#: inc/widget/class-cream-blog-social-widget.php:154
+msgid "Twitter Link:"
+msgstr "URL do Twitter:"
+
+#: inc/widget/class-cream-blog-social-widget.php:147
+msgid "Facebook Link:"
+msgstr "URL do Facebook:"
+
+#: inc/widget/class-cream-blog-social-widget.php:140
+msgid "Title: "
+msgstr "Título: "
+
+#: inc/widget/class-cream-blog-social-widget.php:91
+msgid "Connect"
+msgstr "Conectar"
+
+#: inc/widget/class-cream-blog-social-widget.php:77
+#: inc/widget/class-cream-blog-social-widget.php:84
+#: inc/widget/class-cream-blog-social-widget.php:98
+#: inc/widget/class-cream-blog-social-widget.php:105
+msgid "Follow"
+msgstr "Seguir"
+
+#: inc/widget/class-cream-blog-social-widget.php:70
+msgid "Like"
+msgstr "Gostar"
+
+#: inc/widget/class-cream-blog-social-widget.php:33
+msgid "Displays links to social sites."
+msgstr "Exibir links para sites sociais."
+
+#: inc/widget/class-cream-blog-social-widget.php:30
+msgid "CB: Social Widget"
+msgstr "CB: widget de social"
+
+#: inc/widget/class-cream-blog-post-widget.php:193
+msgid "No of Posts"
+msgstr "Número de post"
+
+#: inc/widget/class-cream-blog-post-widget.php:170
+msgid "Most Commented"
+msgstr "Mais comentados"
+
+#: inc/widget/class-cream-blog-post-widget.php:169
+msgid "Recent Posts"
+msgstr "Posts eecentes"
+
+#: inc/widget/class-cream-blog-post-widget.php:160
+msgid "Type of Posts:"
+msgstr "Tipo de post:"
+
+#: inc/widget/class-cream-blog-post-widget.php:33
+msgid "Displays Recent, Most Commented or Editor Picked Posts."
+msgstr "Exibir posts recentes, mais comentados ou escolhidos pelo editor."
+
+#: inc/widget/class-cream-blog-post-widget.php:30
+msgid "CB: Posts Widget"
+msgstr "CB: widget de post"
+
+#: inc/widget/class-cream-blog-author-widget.php:196
+msgid "Author Page Link Title"
+msgstr "Título do link de página de autor"
+
+#: inc/widget/class-cream-blog-author-widget.php:190
+msgid "Upload"
+msgstr "Enviar"
+
+#: inc/widget/class-cream-blog-author-widget.php:170
+msgid "Author Signature"
+msgstr "Assinatura do autor"
+
+#: inc/widget/class-cream-blog-author-widget.php:162
+msgid "&mdash; Select Page &mdash;"
+msgstr "&mdash; Selecione página &mdash;"
+
+#: inc/widget/class-cream-blog-author-widget.php:153
+msgid "Author Page"
+msgstr "Página de autor"
+
+#: inc/widget/class-cream-blog-author-widget.php:140
+#: inc/widget/class-cream-blog-post-widget.php:147
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:148
+#: inc/widget/class-cream-blog-woocommerce-product-widget.php:197
+msgid "Title"
+msgstr "Título"
+
+#: inc/widget/class-cream-blog-author-widget.php:33
+msgid "Displays Brief Author Description."
+msgstr "Exibir breve descrição do autor."
+
+#: inc/widget/class-cream-blog-author-widget.php:30
+msgid "CB: Author Widget"
+msgstr "CB: Widget de autor"
+
+#. translators: %1$s: comments number
+#: inc/theme-functions.php:179
+msgid "%1$s Comment"
+msgstr "%1$s comentário"
+
+#. translators: %1$s: comments number
+#: inc/theme-functions.php:176
+msgid "%1$s Comments"
+msgstr "%1$s comentários"
+
+#: inc/metabox/class-cream-blog-post-meta.php:80
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/metabox/class-cream-blog-post-meta.php:79
+msgid "Left"
+msgstr "Esquerdo"
+
+#: inc/metabox/class-cream-blog-post-meta.php:78
+msgid "Right"
+msgstr "Direito"
+
+#: inc/customizer/class-cream-blog-customize.php:1210
+msgid "Enable Sticky Sidebar"
+msgstr "Ativar barra lateral fixa"
+
+#: inc/customizer/class-cream-blog-customize.php:1200
+msgid "Enable Breadcrumb"
+msgstr "Ativar Breadcrumb"
+
+#: inc/customizer/class-cream-blog-customize.php:1190
+msgid "Pinterest Link"
+msgstr "URL do Pinterest"
+
+#: inc/customizer/class-cream-blog-customize.php:1180
+msgid "Linkedin Link"
+msgstr "URL do Linkedin"
+
+#: inc/customizer/class-cream-blog-customize.php:1170
+msgid "Youtube Link"
+msgstr "URL do YouTube"
+
+#: inc/customizer/class-cream-blog-customize.php:1160
+msgid "Instagram Link"
+msgstr "URL do Instagram"
+
+#: inc/customizer/class-cream-blog-customize.php:1150
+msgid "Twitter Link"
+msgstr "URL do Twitter"
+
+#: inc/customizer/class-cream-blog-customize.php:1140
+msgid "Facebook Link"
+msgstr "URL do Facebook"
+
+#: inc/customizer/class-cream-blog-customize.php:1130
+msgid "Excerpt Length"
+msgstr "Comprimento do resumo"
+
+#: inc/customizer/class-cream-blog-customize.php:1120
+msgid "Enable Post Tags Meta"
+msgstr "Ativar meta tags post"
+
+#: inc/customizer/class-cream-blog-customize.php:1110
+msgid "Enable Post Categories Meta"
+msgstr "Ativar meta de categorias de post"
+
+#: inc/customizer/class-cream-blog-customize.php:1100
+msgid "Enable Post Comments Number Meta"
+msgstr "Ativar meta de número de comentários de post"
+
+#: inc/customizer/class-cream-blog-customize.php:1090
+msgid "Enable Posted Date Meta"
+msgstr "Ativar meta de data de post"
+
+#: inc/customizer/class-cream-blog-customize.php:1080
+msgid "Enable Post Author Meta"
+msgstr "Ativar meta de autor de post"
+
+#: inc/customizer/class-cream-blog-customize.php:1059
+msgid "Related Section Posts Number"
+msgstr "Número de post de seção relacionada"
+
+#: inc/customizer/class-cream-blog-customize.php:1031
+msgid "Related Posts Section Title"
+msgstr "Título de seção de post relacionado"
+
+#: inc/customizer/class-cream-blog-customize.php:1021
+msgid "Enable Related Posts Section"
+msgstr "Ativar seção de posts relacionados"
+
+#: inc/customizer/class-cream-blog-customize.php:1011
+msgid "Enable Author Section"
+msgstr "Ativar a seção do autor"
+
+#: inc/customizer/class-cream-blog-customize.php:965
+#: inc/customizer/class-cream-blog-customize.php:989
+#: inc/customizer/class-cream-blog-customize.php:1248
+msgid "Select Sidebar Position"
+msgstr "Selecionar posição da barra lateral"
+
+#: inc/customizer/class-cream-blog-customize.php:953
+msgid "Enable Scroll Top Button"
+msgstr "Ativar botão rolar para o topo"
+
+#: inc/customizer/class-cream-blog-customize.php:943
+msgid "Copyright & Credit Text"
+msgstr "Direitos autorais e texto de crédito"
+
+#: inc/customizer/class-cream-blog-customize.php:933
+msgid "Enable Footer Social Links"
+msgstr "Ativar links sociais de rodapé"
+
+#: inc/customizer/class-cream-blog-customize.php:870
+msgid "Select Header Layout"
+msgstr "Selecione o layout do cabeçalho"
+
+#: inc/customizer/class-cream-blog-customize.php:903
+msgid "Enable Search Button"
+msgstr "Ativar botão de pesquisa"
+
+#: inc/customizer/class-cream-blog-customize.php:893
+msgid "Enable Sidebar Toggle Button"
+msgstr "Ativar botão de alternar da barra lateral"
+
+#: inc/customizer/class-cream-blog-customize.php:882
+msgid "Enable Top Header"
+msgstr "Ativar cabeçalho superior"
+
+#: inc/customizer/class-cream-blog-customize.php:913
+msgid "Enable Sticky Menu Bar"
+msgstr "Ativar barra de menu fixo"
+
+#: inc/customizer/class-cream-blog-customize.php:856
+#: inc/metabox/class-cream-blog-post-meta.php:52
+msgid "Sidebar Position"
+msgstr "Posição da barra lateral"
+
+#: inc/customizer/class-cream-blog-customize.php:842
+msgid "Select Post Listing Layout"
+msgstr "Selecione layout de listagem de post"
+
+#: inc/customizer/class-cream-blog-customize.php:827
+msgid "Select Banner/Slider Layout"
+msgstr "Selecione layout de banner/slider"
+
+#: inc/customizer/class-cream-blog-customize.php:814
+msgid "Banner/Slider Posts Number"
+msgstr "Número de post de banner/slider"
+
+#: inc/customizer/class-cream-blog-customize.php:802
+msgid "Banner/Slider Post Categories"
+msgstr "Categorias de post de banner/slider"
+
+#: inc/customizer/class-cream-blog-customize.php:790
+msgid "Enable Banner/Slider"
+msgstr "Ativar banner/slide"
+
+#: inc/customizer/class-cream-blog-customize.php:768
+msgid "Theme Color"
+msgstr "Cor do tema"
+
+#: inc/customizer/class-cream-blog-customize.php:289
+msgid "Miscellaneous"
+msgstr "Diversos"
+
+#: inc/customizer/class-cream-blog-customize.php:261
+msgid "Breadcrumb"
+msgstr "Caminho de navegação"
+
+#: inc/customizer/class-cream-blog-customize.php:252
+msgid "Social Links"
+msgstr "Links de mídias sociais"
+
+#: inc/customizer/class-cream-blog-customize.php:243
+msgid "Post Excerpt is the number of words of content which are displayed instead of full content. You can control the number of words to be displyed in this section."
+msgstr "Resumo de post é o número de palavras do conteúdo que são exibidas em vez do conteúdo completo. Você pode controlar o número de palavras a serem explicadas nesta seção."
+
+#: inc/customizer/class-cream-blog-customize.php:242
+msgid "Post Excerpt"
+msgstr "Resumo do post"
+
+#: inc/customizer/class-cream-blog-customize.php:233
+msgid "Post Meta"
+msgstr "Meta do post"
+
+#: inc/customizer/class-cream-blog-customize.php:206
+msgid "Search Page"
+msgstr "Página de pesquisa"
+
+#: inc/customizer/class-cream-blog-customize.php:197
+msgid "Archive Page"
+msgstr "Página de arquivo"
+
+#: inc/customizer/class-cream-blog-customize.php:188
+#: inc/widget/class-cream-blog-widget-init.php:103
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/class-cream-blog-customize.php:179
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customizer/class-cream-blog-customize.php:170
+msgid "Homepage Sidebar"
+msgstr "Barra lateral da página inicial"
+
+#: inc/customizer/class-cream-blog-customize.php:161
+msgid "Blog Posts"
+msgstr "Posts do blog"
+
+#: inc/customizer/class-cream-blog-customize.php:152
+msgid "Set and select options to configure banner/slider section."
+msgstr "Definir e selecionar opções para configurar a seção de banner/slider."
+
+#: inc/customizer/class-cream-blog-customize.php:151
+msgid "Banner/Slider"
+msgstr "Banner/Slider"
+
+#: inc/customizer/class-cream-blog-customize.php:108
+msgid "Cream Blog Advance Customization. Set Options For Advance Theme Customization."
+msgstr "Pesonalização avançada do Cream Blog. Defina opções para personalização avançada do tema."
+
+#: inc/customizer/class-cream-blog-customize.php:107
+msgid "Advance Customization"
+msgstr "Personalização avançada"
+
+#: inc/customizer/class-cream-blog-customize.php:98
+msgid "Cream Blog Basic Customization. Set Options For Basic Theme Customization."
+msgstr "Cream Blog personalização básica. Defina opções para personalização básica do tema."
+
+#: inc/customizer/class-cream-blog-customize.php:97
+msgid "Basic Customization"
+msgstr "Personalização básica"
+
+#: inc/customizer/class-cream-blog-customize.php:88
+msgid "Cream Blog Homepage Customization. Set Options For Homepage Customization."
+msgstr "Personalização da página inicial do Cream Blog. Defina opções para personalização da página inicial."
+
+#: inc/customizer/class-cream-blog-customize.php:87
+msgid "Homepage Customization"
+msgstr "Personalização da página inicial"
+
+#: inc/custom-hooks.php:718 inc/custom-hooks.php:725
+msgid "Themebeez"
+msgstr "Themebeez"
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#: inc/custom-hooks.php:715
+msgid "%1$s %2$s by %3$s"
+msgstr "%1$s %2$s por %3$s"
+
+#: inc/custom-hooks.php:647
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/custom-hooks.php:635
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/custom-hooks.php:629
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/custom-hooks.php:623
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/custom-hooks.php:503
+msgid "Next Post"
+msgstr "Próximo post"
+
+#: inc/custom-hooks.php:502
+msgid "Prev Post"
+msgstr "Post anterior"
+
+#: inc/custom-hooks.php:479
+msgid "Next"
+msgstr "Próximo"
+
+#: inc/custom-hooks.php:478
+msgid "Prev"
+msgstr "Anterior"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3662
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluído."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:3657
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está iniciando. Esse processo pode levar algum tempo, então seja paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3654
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3652
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluído."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Hide Details"
+msgstr "Esconder detalhes"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3651
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:3649
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Este processo pode demorar um pouco em alguns servidores, seja paciente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3645
+msgid "The installation of %1$s failed."
+msgstr "A instalação do %1$s falhou."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3643
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3640
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando o plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3296
+msgid "Plugin activation failed."
+msgstr "Ativação do plugin falhou."
+
+#: inc/class-tgm-plugin-activation.php:3072
+msgid "No plugins are available to be activated at this time."
+msgstr "Nenhum plugin disponível para ser ativado nesse momento."
+
+#: inc/class-tgm-plugin-activation.php:3046
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser ativado. Nenhuma ação foi tomada."
+
+#: inc/class-tgm-plugin-activation.php:2940
+msgid "No plugins are available to be updated at this time."
+msgstr "Nenhum plugin disponível para ser atualizados nesse momento."
+
+#: inc/class-tgm-plugin-activation.php:2938
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plugin disponível para ser instalado nesse momento."
+
+#: inc/class-tgm-plugin-activation.php:2897
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser atualizado. Nenhuma ação foi tomada."
+
+#: inc/class-tgm-plugin-activation.php:2895
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser instalado. Nenhuma ação foi tomada."
+
+#: inc/class-tgm-plugin-activation.php:2864
+msgid "Activate"
+msgstr "Ativado"
+
+#: inc/class-tgm-plugin-activation.php:2861
+msgid "Update"
+msgstr "Atualizar"
+
+#: inc/class-tgm-plugin-activation.php:2855
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2822
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de atualização do autor do plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2750
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2744
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2739
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2690
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2689
+msgid "Version"
+msgstr "Versão"
+
+#: inc/class-tgm-plugin-activation.php:2685
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Source"
+msgstr "Origem"
+
+#: inc/class-tgm-plugin-activation.php:2683
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2669
+msgid "No plugins to install, update or activate."
+msgstr "Nenhum plugin para instalar, atualizar ou ativar."
+
+#: inc/class-tgm-plugin-activation.php:2646
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Minimum required version:"
+msgstr "Versão mínima obrigatório:"
+
+#: inc/class-tgm-plugin-activation.php:2626
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecida"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2536
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2532
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualização disponível <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2528
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2524
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2478
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2466
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: inc/class-tgm-plugin-activation.php:2463
+msgid "Required Update not Available"
+msgstr "Atualização obrigatória não disponível"
+
+#: inc/class-tgm-plugin-activation.php:2457
+msgid "Active"
+msgstr "Ativo"
+
+#: inc/class-tgm-plugin-activation.php:2455
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: inc/class-tgm-plugin-activation.php:2451
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: inc/class-tgm-plugin-activation.php:2434
+msgid "Pre-Packaged"
+msgstr "Pre-empacotado"
+
+#: inc/class-tgm-plugin-activation.php:2431
+msgid "External Source"
+msgstr "Origem externa"
+
+#: inc/class-tgm-plugin-activation.php:2428
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2409
+msgid "Required"
+msgstr "Obrigatório"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2100
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1231
+#: inc/class-tgm-plugin-activation.php:3086
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote remoto do plugin consiste em mais de um arquivo, mas os arquivos não estão empacotados em uma pasta."
+
+#: inc/class-tgm-plugin-activation.php:1032
+#: inc/class-tgm-plugin-activation.php:1042
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Entre em contato com o fornecedor do plugin e solicite um pacote de acordo com as diretrizes do WordPress."
+
+#: inc/class-tgm-plugin-activation.php:1032
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote de plugin remoto não contém uma pasta com tag desejada e a renomeação não funcionou."
+
+#: inc/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr "Defina a variável de configuração parent_slug."
+
+#: inc/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr "Atualização obrigatória"
+
+#: inc/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Contate o administrador deste site para qualquer ajuda."
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Há um ou mais plugins obrigatórios ou recomendados para instalar, atualizar ou ativar."
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Dispensar essa notificação"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram instalado e ativado. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. É necessário uma versão mais recente do %s para este tema. Atualize o plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. o plugin %1$s já está ativo."
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3090
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado com sucesso:"
+msgstr[1] "O seguinte plugins foram ativado com sucesso:"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3297
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:923
+#: inc/class-tgm-plugin-activation.php:2669
+#: inc/class-tgm-plugin-activation.php:3722
+msgid "Return to the Dashboard"
+msgstr "Retornar ao painel de controle"
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Retornar para o instalador de plugin obrigatório"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Iniciando ativação do plugin"
+msgstr[1] "Iniciando ativação de plugins"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Iniciando atualização de plugin"
+msgstr[1] "Iniciando atualização de plugins"
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Iniciando instalação do plugin"
+msgstr[1] "Iniciando instalação de plugins"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "Atualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instalar plugin obrigatório"
+
+#: inc/class-cream-blog.php:85
+msgid "Top Header Menu"
+msgstr "Menu de cabeçalho superior"
+
+#: inc/class-cream-blog.php:84
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/breadcrumbs.php:863
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:834 inc/breadcrumbs.php:1297
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:833 inc/breadcrumbs.php:903 inc/breadcrumbs.php:1293
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:832 inc/breadcrumbs.php:862 inc/breadcrumbs.php:902
+#: inc/breadcrumbs.php:930 inc/breadcrumbs.php:1289
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:815
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:797
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:779
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:274
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:272
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:270
+msgid "Comment Page %s"
+msgstr "Página de comentário %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:268
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:266
+msgid "Search results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#: inc/breadcrumbs.php:264
+msgid "Archives"
+msgstr "Arquivos"
+
+#: inc/breadcrumbs.php:263
+msgid "404 Not Found"
+msgstr "404 não encontrado"
+
+#: inc/breadcrumbs.php:262
+msgid "Home"
+msgstr "Página inicial"
+
+#: inc/breadcrumbs.php:261
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Caminhos de navegação"
+
+#: inc/breadcrumbs.php:260
+msgid "Browse:"
+msgstr "Navegar:"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comentários estão encerrado."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários sobre &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:33
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Um comentário em &ldquo;%1$s&rdquo;"
+
+#: 404.php:25
+msgid "Go Homepage"
+msgstr "Ir para página inicial"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste local. Talvez tente um dos links abaixo ou uma pesquisa?"
+
+#: 404.php:21
+msgid "Page Not Found!"
+msgstr "Página não encontrada!"
+
+#: 404.php:18
+msgid "404 error page"
+msgstr "Página de erro 404"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themebeez.com/"
+msgstr "https://themebeez.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "themebeez"
+msgstr "themebeez"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themebeez.com/themes/cream-blog/"
+msgstr "https://themebeez.com/themes/cream-blog/"

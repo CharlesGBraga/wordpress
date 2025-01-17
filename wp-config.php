@@ -29,7 +29,7 @@ define('DB_USER', 'wp_user');       // Nome de usuário do banco de dados (vari�
 define('DB_PASSWORD', '123456'); // Senha do banco de dados (variável de ambiente)
 
 /** Database hostname */
-define('DB_HOST', 'wordpress_db.render.com');       // Host do banco de dados (variável de ambiente)
+define('DB_HOST', 'wp-db-12345.render.com');       // Host do banco de dados (variável de ambiente)
 
 // ** Chaves de segurança e saltos ** //
 define('AUTH_KEY',         'v#jl8ctenY?JbFUwgeW^uDy9%N}z+z#k_J8Lpt);8sri/_uOAmFzW&dxtByC8Fd@');

@@ -20,41 +20,26 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-// define( 'DB_NAME', 'wordpress_db' );
+define('DB_NAME', getenv('DB_NAME'));       // Nome do banco de dados (variável de ambiente)
 
 /** Database username */
-// define( 'DB_USER', 'wp_user' );
+define('DB_USER', getenv('DB_USER'));       // Nome de usuário do banco de dados (variável de ambiente)
 
 /** Database password */
-// define( 'DB_PASSWORD', '123456' );
+define('DB_PASSWORD', getenv('DB_PASSWORD')); // Senha do banco de dados (variável de ambiente)
 
 /** Database hostname */
-// define( 'DB_HOST', 'localhost' );
-
-/** Database charset to use in creating database tables. */
-// define( 'DB_CHARSET', 'utf8' );
-
-/** The database collate type. Don't change this if in doubt. */
-// define( 'DB_COLLATE', '' ); 
-
-// ** Configurações do Banco de Dados ** //
-define('DB_NAME', getenv('DB_NAME'));       // Nome do banco de dados (variável de ambiente)
-define('DB_USER', getenv('DB_USER'));       // Nome de usuário do banco de dados (variável de ambiente)
-define('DB_PASSWORD', getenv('DB_PASSWORD')); // Senha do banco de dados (variável de ambiente)
 define('DB_HOST', getenv('DB_HOST'));       // Host do banco de dados (variável de ambiente)
 
-// Defina o prefixo das tabelas, se necessário
-$table_prefix = 'wp_';
-
-// ** Chaves de segurança e saltos, você pode gerar valores únicos em: https://api.wordpress.org/secret-key/1.1/salt/ **
-define('AUTH_KEY',         'gerar-uma-chave-aqui');
-define('SECURE_AUTH_KEY',  'gerar-uma-chave-aqui');
-define('LOGGED_IN_KEY',    'gerar-uma-chave-aqui');
-define('NONCE_KEY',        'gerar-uma-chave-aqui');
-define('AUTH_SALT',        'gerar-uma-chave-aqui');
-define('SECURE_AUTH_SALT', 'gerar-uma-chave-aqui');
-define('LOGGED_IN_SALT',   'gerar-uma-chave-aqui');
-define('NONCE_SALT',       'gerar-uma-chave-aqui');
+// ** Chaves de segurança e saltos ** //
+define('AUTH_KEY',         'v#jl8ctenY?JbFUwgeW^uDy9%N}z+z#k_J8Lpt);8sri/_uOAmFzW&dxtByC8Fd@');
+define('SECURE_AUTH_KEY',  'XXY^g5wPl9^nkEEn9Tw7rsBchDoQkIk_GbeUbmD4Wq|)P%RswxSmb!|2l87laGnL');
+define('LOGGED_IN_KEY',    '8FZ$rcZX8eWnVxxm7C%}Z4iQs#r6X62XHsT/BUUoG92yX_lyuCRub|a1+ts8c_vH');
+define('NONCE_KEY',        '9Lhox_Z2d9O21ZYP)-u|0X7@1=_8TR_wTl-_hC9NMyO~J9|q86pD-TmAyGc20na_');
+define('AUTH_SALT',        'Q}V%5Znv.5w)FQw|/X2XB|fqK9X#j4Rzc9q+9_hyB*sgH-Q(TkaA[2ZTxTk~ZWp');
+define('SECURE_AUTH_SALT', 'y^Vp%*^kFHYfEqfeZGk;3_JAVeqyL6HUSYj!f6XwG|KVC96Eo2HppKYrs1Ty68l');
+define('LOGGED_IN_SALT',   'qJg)%Gp8XqJk^9n^1kF^joH)piu5%rD~u2gzgo*hxq&fXHbh+}TZH;8fz^M5XE_');
+define('NONCE_SALT',       'iUjXfD~]JYZlmuGx%}+u63A@TXCTv74:mwD?)kF3S1!)Sh8_=+gOxA6qG)lAe~9');
 
 // Definições do WordPress (geralmente não precisam ser alteradas)
 define('WP_DEBUG', false);
@@ -70,15 +55,7 @@ define('WP_DEBUG', false);
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
-
+ 
 /**#@-*/
 
 /**
